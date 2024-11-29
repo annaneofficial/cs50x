@@ -1,4 +1,4 @@
-# 📚 My CS50 Journey
+# 📚 My CS50x Journey
 
 Welcome to my repository, where I document my progress through **CS50's Introduction to Computer Science**, a course offered by Harvard University and widely regarded as one of the best starting points for learning computer science and programming. 🚀
 
