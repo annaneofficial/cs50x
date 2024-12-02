@@ -22,7 +22,28 @@ For this week, I created a project in Scratch to apply these concepts in a fun a
 
 # Crab's Banana Catch 🦀🍌
 
-In this exciting Scratch game, you control a hungry crab as it moves across the screen, catching falling bananas to earn points. The more bananas you catch, the higher your score goes! But be careful—don’t miss too many, or the game will be
+In this exciting Scratch game, you control a hungry crab as it moves across the screen, catching falling bananas to earn points. The more bananas you catch, the higher your score goes! But be careful—don’t miss too many, or the game will be over.
+
+## Features 🚀
+
+This game was built using the basics of coding in Scratch, including:
+
+- **Loops**: To keep the bananas falling continuously.  
+- **If Statements**: To check if the crab catches a banana or if it touches the ground.  
+- **Variables**: To track and update the player’s score and lives.  
+- **Events**: To start the game and reset it when needed.  
+
+## Gameplay 🎮
+
+1. Use the arrow keys to move the crab left and right.
+2. Catch the bananas to earn points.
+3. Avoid missing bananas to keep playing.
+
+With simple mechanics and increasing challenges, _"Crab's Banana Catch"_ is a fun way to see how basic coding concepts can create an engaging game.  
+
+---
+
+Feel free to download the Scratch project and play the game! 🎉
 
 ---
 
