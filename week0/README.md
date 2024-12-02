@@ -22,7 +22,7 @@ For this week, I created a project in Scratch to apply these concepts in a fun a
 
 # Crab's Banana Catch 🦀🍌
 
-In this exciting Scratch game, you control a hungry crab as it moves across the screen, catching falling bananas to earn points. The more bananas you catch, the higher your score goes! But be careful—don’t miss too many, or the game will be over.
+In this exciting Scratch game, you control a hungry crab as it moves across the screen, catching falling bananas to earn points.
 
 ## Features 🚀
 
