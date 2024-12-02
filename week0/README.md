@@ -20,22 +20,9 @@ In Week 0, I was introduced to the following fundamental programming concepts:
 
 For this week, I created a project in Scratch to apply these concepts in a fun and creative way.
 
-### **Project Title**: *[Your Project Name Here]*
+# Crab's Banana Catch 🦀🍌
 
-### **Description**:
-[Write a brief overview of your project. For example: "This project is a simple game where the player controls a sprite to collect stars while avoiding obstacles. It uses loops, conditionals, and variables to manage gameplay and scoring."]
-
-### **Features**:
-- **User Interaction**: [Explain how the player interacts with your project, e.g., keyboard or mouse inputs.]
-- **Scoring System**: [If applicable, describe how the score is calculated.]
-- **Dynamic Elements**: [Explain moving sprites, animations, or other interactive elements.]
-
----
-
-## 💡 Challenges Faced
-
-1. [Describe a challenge you faced, e.g., "I had difficulty creating smooth sprite movement."]
-2. [Explain how you resolved it or what you learned from the experience.]
+In this exciting Scratch game, you control a hungry crab as it moves across the screen, catching falling bananas to earn points. The more bananas you catch, the higher your score goes! But be careful—don’t miss too many, or the game will be
 
 ---
 
