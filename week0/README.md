@@ -49,7 +49,7 @@ Feel free to download the Scratch project and play the game! 🎉
 
 ## 🖼️ Preview of the Project
 
-![Alt text](week0/mygame.png)
+![Alt text](mygame.png)
 
 ---
 
